@@ -1,5 +1,6 @@
 ## 230629 리액트 과제 작성
 
+[배포사이트](https://react-test1-chi.vercel.app/)
 
 ### App.jsx
 1. const context : useState로 input태그의 상태값을 가짐 초기값은 빈 문자열
